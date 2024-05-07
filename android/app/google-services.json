@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405062097549",
+    "project_id": "pokemon-card-68a6a",
+    "storage_bucket": "pokemon-card-68a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405062097549:android:dd6de77ac9ca9c90db20c4",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmeYRD1ggCZh8auxru9IlZmF397v9RRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
