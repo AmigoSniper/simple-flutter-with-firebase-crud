@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyChEnY7scEFIV_azQ2Re07HOezxpv3tZVA',
-    appId: '1:405062097549:web:6970a991b8218983db20c4',
-    messagingSenderId: '405062097549',
-    projectId: 'pokemon-card-68a6a',
-    authDomain: 'pokemon-card-68a6a.firebaseapp.com',
-    storageBucket: 'pokemon-card-68a6a.appspot.com',
+    apiKey: '',
+    appId: ':',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDkmeYRD1ggCZh8auxru9IlZmF397v9RRo',
-    appId: '1:405062097549:android:dd6de77ac9ca9c90db20c4',
-    messagingSenderId: '405062097549',
-    projectId: 'pokemon-card-68a6a',
-    storageBucket: 'pokemon-card-68a6a.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCzv_vgW1aqq7FAnhGERouDeAU1QNz2qgs',
-    appId: '1:405062097549:ios:66b723dce2c53608db20c4',
-    messagingSenderId: '405062097549',
-    projectId: 'pokemon-card-68a6a',
-    storageBucket: 'pokemon-card-68a6a.appspot.com',
-    iosBundleId: 'com.example.pokemon',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCzv_vgW1aqq7FAnhGERouDeAU1QNz2qgs',
-    appId: '1:405062097549:ios:66b723dce2c53608db20c4',
-    messagingSenderId: '405062097549',
-    projectId: 'pokemon-card-68a6a',
-    storageBucket: 'pokemon-card-68a6a.appspot.com',
-    iosBundleId: 'com.example.pokemon',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyChEnY7scEFIV_azQ2Re07HOezxpv3tZVA',
-    appId: '1:405062097549:web:a68704f821cfd54ddb20c4',
-    messagingSenderId: '405062097549',
-    projectId: 'pokemon-card-68a6a',
-    authDomain: 'pokemon-card-68a6a.firebaseapp.com',
-    storageBucket: 'pokemon-card-68a6a.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
